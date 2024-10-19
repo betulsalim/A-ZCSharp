@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\OrtalamaHesaplamaProje\bin\Debug\OrtalamaHesaplamaProje.exe.config
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\OrtalamaHesaplamaProje\bin\Debug\OrtalamaHesaplamaProje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\OrtalamaHesaplamaProje\bin\Debug\OrtalamaHesaplamaProje.pdb
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\OrtalamaHesaplamaProje\obj\Debug\OrtalamaHesaplamaProje.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\OrtalamaHesaplamaProje\obj\Debug\OrtalamaHesaplamaProje.Form1.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\OrtalamaHesaplamaProje\obj\Debug\OrtalamaHesaplamaProje.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\OrtalamaHesaplamaProje\obj\Debug\OrtalamaHesaplamaProje.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\OrtalamaHesaplamaProje\obj\Debug\OrtalamaHesaplamaProje.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\OrtalamaHesaplamaProje\obj\Debug\OrtalamaHesaplamaProje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\OrtalamaHesaplamaProje\obj\Debug\OrtalamaHesaplamaProje.pdb

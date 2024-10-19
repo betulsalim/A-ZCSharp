@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenler\bin\Debug\DoubleDegiskenler.exe.config
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenler\bin\Debug\DoubleDegiskenler.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenler\bin\Debug\DoubleDegiskenler.pdb
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenler\obj\Debug\DoubleDegiskenler.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenler\obj\Debug\DoubleDegiskenler.Form1.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenler\obj\Debug\DoubleDegiskenler.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenler\obj\Debug\DoubleDegiskenler.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenler\obj\Debug\DoubleDegiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenler\obj\Debug\DoubleDegiskenler.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenler\obj\Debug\DoubleDegiskenler.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\CharDegiskenler\bin\Debug\CharDegiskenler.exe.config
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\CharDegiskenler\bin\Debug\CharDegiskenler.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\CharDegiskenler\bin\Debug\CharDegiskenler.pdb
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\CharDegiskenler\obj\Debug\CharDegiskenler.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\CharDegiskenler\obj\Debug\CharDegiskenler.Form1.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\CharDegiskenler\obj\Debug\CharDegiskenler.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\CharDegiskenler\obj\Debug\CharDegiskenler.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\CharDegiskenler\obj\Debug\CharDegiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\CharDegiskenler\obj\Debug\CharDegiskenler.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\CharDegiskenler\obj\Debug\CharDegiskenler.pdb

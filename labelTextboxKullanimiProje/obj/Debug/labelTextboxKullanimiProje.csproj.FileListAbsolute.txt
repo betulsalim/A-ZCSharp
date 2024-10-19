@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\labelTextboxKullanimiProje\bin\Debug\labelTextboxKullanimiProje.exe.config
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\labelTextboxKullanimiProje\bin\Debug\labelTextboxKullanimiProje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\labelTextboxKullanimiProje\bin\Debug\labelTextboxKullanimiProje.pdb
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\labelTextboxKullanimiProje\obj\Debug\labelTextboxKullanimiProje.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\labelTextboxKullanimiProje\obj\Debug\labelTextboxKullanimiProje.Form1.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\labelTextboxKullanimiProje\obj\Debug\labelTextboxKullanimiProje.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\labelTextboxKullanimiProje\obj\Debug\labelTextboxKullanimiProje.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\labelTextboxKullanimiProje\obj\Debug\labelTextboxKullanimiProje.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\labelTextboxKullanimiProje\obj\Debug\labelTextboxKullanimiProje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\labelTextboxKullanimiProje\obj\Debug\labelTextboxKullanimiProje.pdb

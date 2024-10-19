@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Arac_kullanimlari4\bin\Debug\Arac_kullanimlari4.exe.config
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Arac_kullanimlari4\bin\Debug\Arac_kullanimlari4.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Arac_kullanimlari4\bin\Debug\Arac_kullanimlari4.pdb
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Arac_kullanimlari4\obj\Debug\Arac_kullanimlari4.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Arac_kullanimlari4\obj\Debug\Arac_kullanimlari4.Form1.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Arac_kullanimlari4\obj\Debug\Arac_kullanimlari4.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Arac_kullanimlari4\obj\Debug\Arac_kullanimlari4.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Arac_kullanimlari4\obj\Debug\Arac_kullanimlari4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Arac_kullanimlari4\obj\Debug\Arac_kullanimlari4.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Arac_kullanimlari4\obj\Debug\Arac_kullanimlari4.pdb

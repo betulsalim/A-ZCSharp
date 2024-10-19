@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\UcakRezervasyonSistemiProje\bin\Debug\UcakRezervasyonSistemiProje.exe.config
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\UcakRezervasyonSistemiProje\bin\Debug\UcakRezervasyonSistemiProje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\UcakRezervasyonSistemiProje\bin\Debug\UcakRezervasyonSistemiProje.pdb
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\UcakRezervasyonSistemiProje\obj\Debug\UcakRezervasyonSistemiProje.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\UcakRezervasyonSistemiProje\obj\Debug\UcakRezervasyonSistemiProje.Form1.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\UcakRezervasyonSistemiProje\obj\Debug\UcakRezervasyonSistemiProje.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\UcakRezervasyonSistemiProje\obj\Debug\UcakRezervasyonSistemiProje.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\UcakRezervasyonSistemiProje\obj\Debug\UcakRezervasyonSistemiProje.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\UcakRezervasyonSistemiProje\obj\Debug\UcakRezervasyonSistemiProje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\UcakRezervasyonSistemiProje\obj\Debug\UcakRezervasyonSistemiProje.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\String_Degiskenler_Proje\bin\Debug\String_Degiskenler_Proje.exe.config
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\String_Degiskenler_Proje\bin\Debug\String_Degiskenler_Proje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\String_Degiskenler_Proje\bin\Debug\String_Degiskenler_Proje.pdb
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\String_Degiskenler_Proje\obj\Debug\String_Degiskenler_Proje.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\String_Degiskenler_Proje\obj\Debug\String_Degiskenler_Proje.Form1.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\String_Degiskenler_Proje\obj\Debug\String_Degiskenler_Proje.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\String_Degiskenler_Proje\obj\Debug\String_Degiskenler_Proje.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\String_Degiskenler_Proje\obj\Debug\String_Degiskenler_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\String_Degiskenler_Proje\obj\Debug\String_Degiskenler_Proje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\String_Degiskenler_Proje\obj\Debug\String_Degiskenler_Proje.pdb

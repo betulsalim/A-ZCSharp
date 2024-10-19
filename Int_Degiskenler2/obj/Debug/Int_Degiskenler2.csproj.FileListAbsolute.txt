@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Int_Degiskenler2\bin\Debug\Int_Degiskenler2.exe.config
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Int_Degiskenler2\bin\Debug\Int_Degiskenler2.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Int_Degiskenler2\bin\Debug\Int_Degiskenler2.pdb
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Int_Degiskenler2\obj\Debug\Int_Degiskenler2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Int_Degiskenler2\obj\Debug\Int_Degiskenler2.Form1.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Int_Degiskenler2\obj\Debug\Int_Degiskenler2.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Int_Degiskenler2\obj\Debug\Int_Degiskenler2.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Int_Degiskenler2\obj\Debug\Int_Degiskenler2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Int_Degiskenler2\obj\Debug\Int_Degiskenler2.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\Int_Degiskenler2\obj\Debug\Int_Degiskenler2.pdb

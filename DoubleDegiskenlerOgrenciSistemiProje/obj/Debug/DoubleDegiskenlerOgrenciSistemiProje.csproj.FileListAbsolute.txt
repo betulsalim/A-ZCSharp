@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenlerOgrenciSistemiProje\bin\Debug\DoubleDegiskenlerOgrenciSistemiProje.exe.config
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenlerOgrenciSistemiProje\bin\Debug\DoubleDegiskenlerOgrenciSistemiProje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenlerOgrenciSistemiProje\bin\Debug\DoubleDegiskenlerOgrenciSistemiProje.pdb
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenlerOgrenciSistemiProje\obj\Debug\DoubleDegiskenlerOgrenciSistemiProje.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenlerOgrenciSistemiProje\obj\Debug\DoubleDegiskenlerOgrenciSistemiProje.Form1.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenlerOgrenciSistemiProje\obj\Debug\DoubleDegiskenlerOgrenciSistemiProje.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenlerOgrenciSistemiProje\obj\Debug\DoubleDegiskenlerOgrenciSistemiProje.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenlerOgrenciSistemiProje\obj\Debug\DoubleDegiskenlerOgrenciSistemiProje.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenlerOgrenciSistemiProje\obj\Debug\DoubleDegiskenlerOgrenciSistemiProje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DoubleDegiskenlerOgrenciSistemiProje\obj\Debug\DoubleDegiskenlerOgrenciSistemiProje.pdb

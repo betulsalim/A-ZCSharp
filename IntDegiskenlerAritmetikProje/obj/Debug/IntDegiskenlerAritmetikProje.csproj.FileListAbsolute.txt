@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\IntDegiskenlerAritmetikProje\bin\Debug\IntDegiskenlerAritmetikProje.exe.config
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\IntDegiskenlerAritmetikProje\bin\Debug\IntDegiskenlerAritmetikProje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\IntDegiskenlerAritmetikProje\bin\Debug\IntDegiskenlerAritmetikProje.pdb
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\IntDegiskenlerAritmetikProje\obj\Debug\IntDegiskenlerAritmetikProje.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\IntDegiskenlerAritmetikProje\obj\Debug\IntDegiskenlerAritmetikProje.Form1.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\IntDegiskenlerAritmetikProje\obj\Debug\IntDegiskenlerAritmetikProje.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\IntDegiskenlerAritmetikProje\obj\Debug\IntDegiskenlerAritmetikProje.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\IntDegiskenlerAritmetikProje\obj\Debug\IntDegiskenlerAritmetikProje.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\IntDegiskenlerAritmetikProje\obj\Debug\IntDegiskenlerAritmetikProje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\IntDegiskenlerAritmetikProje\obj\Debug\IntDegiskenlerAritmetikProje.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DikdortgenAlanCevreProje\bin\Debug\DikdortgenAlanCevreProje.exe.config
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DikdortgenAlanCevreProje\bin\Debug\DikdortgenAlanCevreProje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DikdortgenAlanCevreProje\bin\Debug\DikdortgenAlanCevreProje.pdb
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DikdortgenAlanCevreProje\obj\Debug\DikdortgenAlanCevreProje.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DikdortgenAlanCevreProje\obj\Debug\DikdortgenAlanCevreProje.Form1.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DikdortgenAlanCevreProje\obj\Debug\DikdortgenAlanCevreProje.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DikdortgenAlanCevreProje\obj\Debug\DikdortgenAlanCevreProje.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DikdortgenAlanCevreProje\obj\Debug\DikdortgenAlanCevreProje.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DikdortgenAlanCevreProje\obj\Debug\DikdortgenAlanCevreProje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\DikdortgenAlanCevreProje\obj\Debug\DikdortgenAlanCevreProje.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\ComboboxAndListboxProje\bin\Debug\ComboboxAndListboxProje.exe.config
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\ComboboxAndListboxProje\bin\Debug\ComboboxAndListboxProje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\ComboboxAndListboxProje\bin\Debug\ComboboxAndListboxProje.pdb
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\ComboboxAndListboxProje\obj\Debug\ComboboxAndListboxProje.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\ComboboxAndListboxProje\obj\Debug\ComboboxAndListboxProje.Form1.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\ComboboxAndListboxProje\obj\Debug\ComboboxAndListboxProje.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\ComboboxAndListboxProje\obj\Debug\ComboboxAndListboxProje.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\ComboboxAndListboxProje\obj\Debug\ComboboxAndListboxProje.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\ComboboxAndListboxProje\obj\Debug\ComboboxAndListboxProje.exe
+C:\Users\Lenovo\source\repos\AZCSharpEgitim\ComboboxAndListboxProje\obj\Debug\ComboboxAndListboxProje.pdb
