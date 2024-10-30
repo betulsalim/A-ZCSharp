@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Example_Console\bin\Debug\Example_Console.exe.config
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Example_Console\bin\Debug\Example_Console.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Example_Console\bin\Debug\Example_Console.pdb
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Example_Console\obj\Debug\Example_Console.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Example_Console\obj\Debug\Example_Console.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Example_Console\obj\Debug\Example_Console.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Example_Console\obj\Debug\Example_Console.pdb

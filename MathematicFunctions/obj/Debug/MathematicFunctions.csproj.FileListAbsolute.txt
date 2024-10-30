@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\MathematicFunctions\bin\Debug\MathematicFunctions.exe.config
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\MathematicFunctions\bin\Debug\MathematicFunctions.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\MathematicFunctions\bin\Debug\MathematicFunctions.pdb
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\MathematicFunctions\obj\Debug\MathematicFunctions.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\MathematicFunctions\obj\Debug\MathematicFunctions.Form1.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\MathematicFunctions\obj\Debug\MathematicFunctions.Properties.Resources.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\MathematicFunctions\obj\Debug\MathematicFunctions.csproj.GenerateResource.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\MathematicFunctions\obj\Debug\MathematicFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\MathematicFunctions\obj\Debug\MathematicFunctions.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\MathematicFunctions\obj\Debug\MathematicFunctions.pdb

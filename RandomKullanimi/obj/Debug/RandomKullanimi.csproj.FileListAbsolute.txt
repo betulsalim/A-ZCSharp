@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\RandomKullanimi\bin\Debug\RandomKullanimi.exe.config
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\RandomKullanimi\bin\Debug\RandomKullanimi.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\RandomKullanimi\bin\Debug\RandomKullanimi.pdb
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\RandomKullanimi\obj\Debug\RandomKullanimi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\RandomKullanimi\obj\Debug\RandomKullanimi.Form1.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\RandomKullanimi\obj\Debug\RandomKullanimi.Properties.Resources.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\RandomKullanimi\obj\Debug\RandomKullanimi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\RandomKullanimi\obj\Debug\RandomKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\RandomKullanimi\obj\Debug\RandomKullanimi.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\RandomKullanimi\obj\Debug\RandomKullanimi.pdb

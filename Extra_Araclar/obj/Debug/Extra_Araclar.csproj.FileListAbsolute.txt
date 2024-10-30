@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Extra_Araclar\bin\Debug\Extra_Araclar.exe.config
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Extra_Araclar\bin\Debug\Extra_Araclar.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Extra_Araclar\bin\Debug\Extra_Araclar.pdb
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Extra_Araclar\obj\Debug\Extra_Araclar.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Extra_Araclar\obj\Debug\Extra_Araclar.Form1.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Extra_Araclar\obj\Debug\Extra_Araclar.Properties.Resources.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Extra_Araclar\obj\Debug\Extra_Araclar.csproj.GenerateResource.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Extra_Araclar\obj\Debug\Extra_Araclar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Extra_Araclar\obj\Debug\Extra_Araclar.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Extra_Araclar\obj\Debug\Extra_Araclar.pdb

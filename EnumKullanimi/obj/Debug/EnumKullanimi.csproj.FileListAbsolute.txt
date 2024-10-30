@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\EnumKullanimi\bin\Debug\EnumKullanimi.exe.config
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\EnumKullanimi\bin\Debug\EnumKullanimi.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\EnumKullanimi\bin\Debug\EnumKullanimi.pdb
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\EnumKullanimi\obj\Debug\EnumKullanimi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\EnumKullanimi\obj\Debug\EnumKullanimi.Form1.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\EnumKullanimi\obj\Debug\EnumKullanimi.Properties.Resources.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\EnumKullanimi\obj\Debug\EnumKullanimi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\EnumKullanimi\obj\Debug\EnumKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\EnumKullanimi\obj\Debug\EnumKullanimi.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\EnumKullanimi\obj\Debug\EnumKullanimi.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Donguler_Timer\obj\Debug\ProgressBar_Timer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Donguler_Timer\obj\Debug\Donguler_Timer.Form1.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Donguler_Timer\obj\Debug\Donguler_Timer.Properties.Resources.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Donguler_Timer\obj\Debug\ProgressBar_Timer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Donguler_Timer\obj\Debug\ProgressBar_Timer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Donguler_Timer\bin\Debug\Donguler_Timer.exe.config
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Donguler_Timer\bin\Debug\Donguler_Timer.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Donguler_Timer\bin\Debug\Donguler_Timer.pdb
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Donguler_Timer\obj\Debug\Donguler_Timer.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Donguler_Timer\obj\Debug\Donguler_Timer.pdb

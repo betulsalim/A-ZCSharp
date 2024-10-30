@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\DynamicTools\bin\Debug\DynamicTools.exe.config
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\DynamicTools\bin\Debug\DynamicTools.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\DynamicTools\bin\Debug\DynamicTools.pdb
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\DynamicTools\obj\Debug\DynamicTools.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\DynamicTools\obj\Debug\DynamicTools.Form1.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\DynamicTools\obj\Debug\DynamicTools.Properties.Resources.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\DynamicTools\obj\Debug\DynamicTools.csproj.GenerateResource.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\DynamicTools\obj\Debug\DynamicTools.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\DynamicTools\obj\Debug\DynamicTools.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\DynamicTools\obj\Debug\DynamicTools.pdb

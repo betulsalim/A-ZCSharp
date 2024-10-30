@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Karar_Yapilari\bin\Debug\Karar_Yapilari.exe.config
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Karar_Yapilari\bin\Debug\Karar_Yapilari.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Karar_Yapilari\bin\Debug\Karar_Yapilari.pdb
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Karar_Yapilari\obj\Debug\Karar_Yapilari.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Karar_Yapilari\obj\Debug\Karar_Yapilari.Form1.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Karar_Yapilari\obj\Debug\Karar_Yapilari.Properties.Resources.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Karar_Yapilari\obj\Debug\Karar_Yapilari.csproj.GenerateResource.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Karar_Yapilari\obj\Debug\Karar_Yapilari.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Karar_Yapilari\obj\Debug\Karar_Yapilari.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\Karar_Yapilari\obj\Debug\Karar_Yapilari.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\class_Example\bin\Debug\class_Example.exe.config
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\class_Example\bin\Debug\class_Example.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\class_Example\bin\Debug\class_Example.pdb
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\class_Example\obj\Debug\class_Example.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\class_Example\obj\Debug\class_Example.Form1.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\class_Example\obj\Debug\class_Example.Form2.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\class_Example\obj\Debug\class_Example.Properties.Resources.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\class_Example\obj\Debug\class_Example.csproj.GenerateResource.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\class_Example\obj\Debug\class_Example.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\class_Example\obj\Debug\class_Example.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\class_Example\obj\Debug\class_Example.pdb

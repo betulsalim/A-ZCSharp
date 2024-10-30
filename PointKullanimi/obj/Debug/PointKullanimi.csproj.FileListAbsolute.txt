@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\PointKullanimi\bin\Debug\PointKullanimi.exe.config
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\PointKullanimi\bin\Debug\PointKullanimi.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\PointKullanimi\bin\Debug\PointKullanimi.pdb
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\PointKullanimi\obj\Debug\PointKullanimi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\PointKullanimi\obj\Debug\PointKullanimi.Form1.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\PointKullanimi\obj\Debug\PointKullanimi.Properties.Resources.resources
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\PointKullanimi\obj\Debug\PointKullanimi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\PointKullanimi\obj\Debug\PointKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\PointKullanimi\obj\Debug\PointKullanimi.exe
+C:\Users\Lenovo\Masaüstü\AZCSharpEgitim\PointKullanimi\obj\Debug\PointKullanimi.pdb
